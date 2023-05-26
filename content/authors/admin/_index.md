@@ -1,7 +1,7 @@
 ---
 title: Yang Lin
 role: ""
-avatar_filename: screen-shot-2022-07-29-at-8.58.19-am.png
+avatar_filename: avatar.png
 bio: My research interests include stochastic optimization, reinforcement
   learning and AI risk
 interests:
@@ -32,7 +32,7 @@ education:
       year: ""
     - course: B.S. in Mathematics, Information and Computational Sciences
       institution: Xiamen University
-      year: -2
+      year: ""
 superuser: true
 status:
   icon: ☕️
