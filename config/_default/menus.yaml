@@ -22,7 +22,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-<<<<<<< HEAD
   # - name: Projects
   #   url: '#projects'
   #   weight: 20
@@ -32,8 +31,6 @@ main:
   # - name: Contact
   #   url: '#contact'
   #   weight: 40
-=======
->>>>>>> parent of bde4b88 (personalize it)
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
