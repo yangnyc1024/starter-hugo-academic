@@ -1,5 +1,5 @@
 ---
-title: Yang Lin, Ph.D.
+title: Yang Lin
 role: ""
 avatar_filename: screen-shot-2022-07-29-at-8.58.19-am.png
 bio: My research interests include stochastic optimization, reinforcement
