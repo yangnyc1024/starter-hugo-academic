@@ -41,6 +41,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Yang Lin is a research scientist in Munich Re/ HSB. His work......
+Welcome to the personal pages of Yang Lin. I am presently serving as a research scientist at Munich Re/HSB, actively participating in the development of the world's first AI insurance product, Insure AI. Our team is committed to offering performance assurance solutions to manage AI risks. My expertise lies in areas such as financial fraud detection, IoT anomaly detection, and addressing cybersecurity issues related to AI, among other relevant fields.
 {style="text-align: justify;"}
