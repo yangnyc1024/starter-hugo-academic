@@ -24,7 +24,6 @@ main:
     weight: 60
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   # - name: Projects
   #   url: '#projects'
   #   weight: 20
@@ -34,8 +33,6 @@ main:
   # - name: Contact
   #   url: '#contact'
   #   weight: 40
-=======
->>>>>>> parent of bde4b88 (personalize it)
 =======
 >>>>>>> parent of bde4b88 (personalize it)
 =======
