@@ -3,9 +3,8 @@ title: Yang Lin
 role: ""
 avatar_filename: avatar.png
 bio: My research interests include stochastic optimization, reinforcement
-  learning and AI risk
-interests:
-  - Artificial Intelligence
+  learning, uncertainty, and AI risk
+interests: []
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -20,7 +19,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Munich Re
+  - name: Munich Re/ HSB
     url: https://www.munichre.com/hsb/en.html
 education:
   courses:
