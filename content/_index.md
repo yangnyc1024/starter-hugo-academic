@@ -28,14 +28,14 @@ sections:
           company_url: ''
           company_logo: 
           location: ''
-          date_start: 'Dec 2021'
+          date_start: '2021-12-01'
           date_end: ''
           description: ''
         - title: Visiting Researcher /Adjunt Professor
-          company: University X
+          company: Stevens Institute of Technology
           company_url: ''
           company_logo: org-x
-          location: California
+          location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: ''
