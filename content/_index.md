@@ -42,7 +42,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    Id: publications
+    id: publications
     content:
       title: Recent Publications
       text: |-
