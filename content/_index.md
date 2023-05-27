@@ -28,10 +28,10 @@ sections:
           company_url: ''
           company_logo: 
           location: ''
-          date_start: '2021-12-'
+          date_start: 'Dec 2021'
           date_end: ''
           description: ''
-        - title: Professor of Semiconductor Physics
+        - title: Visiting Researcher /Adjunt Professor
           company: University X
           company_url: ''
           company_logo: org-x
