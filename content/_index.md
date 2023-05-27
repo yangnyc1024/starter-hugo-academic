@@ -28,7 +28,7 @@ sections:
           company_url: ''
           company_logo: 
           location: ''
-          date_start: '2021-12-01'
+          date_start: '2021-12-'
           date_end: ''
           description: ''
         - title: Professor of Semiconductor Physics
