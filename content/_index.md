@@ -27,7 +27,7 @@ sections:
           company: Munich RE / HSB
           company_url: ''
           company_logo: 
-          location: California
+          location: 
           date_start: '2021-12-01'
           date_end: ''
           description: ''
@@ -35,9 +35,9 @@ sections:
           company: Stevens Institute of Technology
           company_url: ''
           company_logo: 
-          location: California
+          location: 
           date_start: '2020-01-01'
-          date_end: '2021-11-31'
+          date_end: '2021-11-30'
           description: ''
     design:
       columns: '2'
