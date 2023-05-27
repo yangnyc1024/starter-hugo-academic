@@ -24,11 +24,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: AI Research Scientist
-          company: Munich RE/ HSB
+          company: Munich RE / HSB
           company_url: ''
           company_logo: 
           location: ''
-          date_start: '2021-12'
+          date_start: '2021-12-01'
           date_end: ''
           description: ''
         - title: Professor of Semiconductor Physics
