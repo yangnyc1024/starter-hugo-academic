@@ -36,12 +36,13 @@ sections:
           company_url: ''
           company_logo: 
           location: ''
-          date_start: '2020-018-01'
+          date_start: '2020-01-01'
           date_end: '2021-11-31'
           description: ''
     design:
       columns: '2'
   - block: collection
+    Id: publications
     content:
       title: Recent Publications
       text: |-
