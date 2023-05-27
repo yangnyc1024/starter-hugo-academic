@@ -3,9 +3,8 @@ title: Yang Lin
 role: ""
 avatar_filename: avatar.png
 bio: My research interests include stochastic optimization, reinforcement
-  learning and AI risk
-interests:
-  - Artificial Intelligence
+  learning, uncertainty, and AI risk
+interests: []
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -20,7 +19,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Munich Re
+  - name: Munich Re/ HSB
     url: https://www.munichre.com/hsb/en.html
 education:
   courses:
@@ -41,6 +40,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Yang Lin is a research scientist in Munich Re/ HSB. His work......
+Welcome to Yang Lin's personal pages. I am presently serving as a research scientist at Munich Re/HSB, actively participating in the development of the world's first AI insurance product, Insure AI. Our team is committed to offering performance assurance solutions to manage AI risks. My expertise lies in areas such as financial fraud detection, IoT anomaly detection, and addressing cybersecurity issues related to AI, among other relevant fields.
 {style="text-align: justify;"}
