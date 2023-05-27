@@ -34,14 +34,15 @@ sections:
         - title: Visiting Researcher /Adjunt Professor
           company: Stevens Institute of Technology
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2020-018-01'
+          date_end: '2021-11-31'
           description: ''
     design:
       columns: '2'
   - block: collection
+    id: features
     content:
       title: Recent Publications
       text: |-
